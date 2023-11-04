@@ -1,0 +1,5 @@
+opencv-python==4.8.0.76
+fastapi==0.100.1
+uvicorn==0.22.0
+librosa==0.10.1
+python-multipart==0.0.6
